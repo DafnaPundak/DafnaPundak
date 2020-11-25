@@ -1,5 +1,5 @@
 <p align="center">
-A passionate full-stack web developer loves building cool and nice apps.
+A passionate full-stack web developer loves building creative apps.
 <br>
 Looking for my first opportunity in the industry.
 <br>
