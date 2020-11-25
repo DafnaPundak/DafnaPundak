@@ -1,7 +1,7 @@
 <p align="center">
 A passionate full-stack web developer loves building cool and nice apps.
 <br>
-looking for my first opportunity in the industry.
+Looking for my first opportunity in the industry.
 <br>
 <br>
 <a href="https://dafnapundak.github.io/portfolio/">Portfolio Site</a>
