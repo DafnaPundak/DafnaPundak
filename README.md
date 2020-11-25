@@ -9,6 +9,4 @@ Looking for my first opportunity in the industry.
  · <a href="https://twitter.com/DafnaPundak">Twitter</a>
 <br>
 <br>
-<br>
-<br>
 </p>
